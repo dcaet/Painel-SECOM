@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Painel de Contratações",
+  "description": "Dashboard interativo para análise de planilhas de contratações, com upload de arquivos do Excel, cálculo de métricas, visualização gráfica e filtros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
